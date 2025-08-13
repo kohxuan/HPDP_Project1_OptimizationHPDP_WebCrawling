@@ -99,7 +99,7 @@ This project was developed as part of the High Performance Data Processing cours
 
 | Name                                        | Matric No. | GitHub Profile                                         |
 | :------------------------------------------ | :--------- | :----------------------------------------------------- |
-| Danial Harriz Bin Mohd Asineh (@Mohd Asneh) | A22EC0152  | [`@danialharriz`](https://github.com/danialharriz)       |
+| Danial Harriz Bin Mohd Asineh @Mohd Asneh | A22EC0152  | [`@danialharriz`](https://github.com/danialharriz)       |
 | Chai Yu Tong                                | A22EC0145  | [`@Yutongchai`](https://github.com/Yutongchai)      |
 | Koh Su Xuan                                 | A22EC0060  | [`@kohxuan`](https://github.com/kohxuan)               |
 | Tiew Chuan Rong                             | A22EC0112  | [`@tiewrong`](https://github.com/tiewrong) |
